@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeextant02mngoog_0238.png"; bbox 0 0 717 1198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 287 322 313">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 287 322 313">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 287 322 313; baseline -0.017 0"><span class='ocrx_word' id='word_1_1' title='bbox 262 287 322 313; x_wconf 63' lang='lat' dir='ltr'>mv:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 57 364 521 617">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 111 364 461 391">
+     <span class='ocr_line' id='line_1_2' title="bbox 111 364 461 391; baseline -0.006 -6"><span class='ocrx_word' id='word_1_2' title='bbox 111 364 228 385; x_wconf 68' lang='lat' dir='ltr'>mriehi</span> <span class='ocrx_word' id='word_1_3' title='bbox 247 366 278 385; x_wconf 83' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_4' title='bbox 295 366 403 385; x_wconf 71' lang='lat' dir='ltr'><strong>Hutten</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 420 367 461 391; x_wconf 71' lang='lat' dir='ltr'>Eq-</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 57 405 521 617">
+     <span class='ocr_line' id='line_1_3' title="bbox 277 405 473 442; baseline 0 -33"><span class='ocrx_word' id='word_1_6' title='bbox 277 426 301 442; x_wconf 52' lang='grc' dir='ltr'><strong>ὴ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 366 406 368 408; x_wconf 87' lang='grc'>.</span> <span class='ocrx_word' id='word_1_8' title='bbox 469 405 473 409; x_wconf 92' lang='grc'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 57 481 521 510; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 57 481 253 510; x_wconf 76' lang='lat' dir='ltr'>G&#39;uajaei</span> <span class='ocrx_word' id='word_1_10' title='bbox 282 481 521 504; x_wconf 72' lang='lat' dir='ltr'>Medicina-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 278 547 298 559; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 278 547 298 559; x_wconf 55' lang='grc' dir='ltr'>οἱ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 146 596 433 617; baseline 0.003 -1"><span class='ocrx_word' id='word_1_12' title='bbox 146 597 264 617; x_wconf 74' lang='lat' dir='ltr'><strong>Morbo</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 289 596 433 617; x_wconf 70' lang='lat' dir='ltr'>Gallie-i</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 207 657 374 673">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 207 657 374 673">
+     <span class='ocr_line' id='line_1_7' title="bbox 207 657 374 673; baseline -0.006 0"><span class='ocrx_word' id='word_1_14' title='bbox 207 657 288 673; x_wconf 60' lang='lat' dir='ltr'>Libat</span> <span class='ocrx_word' id='word_1_15' title='bbox 306 662 374 673; x_wconf 73' lang='lat' dir='ltr'>uuus.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

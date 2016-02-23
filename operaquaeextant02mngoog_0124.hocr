@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeextant02mngoog_0124.png"; bbox 0 0 717 1198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 249 299 339 324">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 249 299 339 324">
+     <span class='ocr_line' id='line_1_1' title="bbox 249 299 339 324; baseline 0.011 -2"><span class='ocrx_word' id='word_1_1' title='bbox 249 299 339 324; x_wconf 88' lang='lat' dir='ltr'><strong>XLVII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 42 369 555 620">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 42 369 555 620">
+     <span class='ocr_line' id='line_1_2' title="bbox 73 369 535 399; baseline 0.002 -7"><span class='ocrx_word' id='word_1_2' title='bbox 73 369 201 397; x_wconf 58' lang='lat' dir='ltr'>Carmina</span> <span class='ocrx_word' id='word_1_3' title='bbox 219 370 339 399; x_wconf 85' lang='lat' dir='ltr'><strong>quaedam</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 360 370 535 393; x_wconf 81' lang='lat' dir='ltr'><strong>leviuscula.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 260 433 333 452; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 260 433 333 452; x_wconf 66' lang='lat' dir='ltr'>,num</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 152 485 439 507; baseline 0 -5"><span class='ocrx_word' id='word_1_6' title='bbox 152 485 197 502; x_wconf 69' lang='lat' dir='ltr'>fue</span> <span class='ocrx_word' id='word_1_7' title='bbox 211 489 301 507; x_wconf 69' lang='lat' dir='ltr'>tempon</span> <span class='ocrx_word' id='word_1_8' title='bbox 315 486 439 506; x_wconf 60' lang='lat' dir='ltr'>componun,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 267 543 332 558; baseline 0 -4"><span class='ocrx_word' id='word_1_9' title='bbox 267 543 332 558; x_wconf 76' lang='grc' dir='ltr'>μιιιιι·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 42 593 555 620; baseline 0.002 -8"><span class='ocrx_word' id='word_1_10' title='bbox 42 593 63 612; x_wconf 87' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_11' title='bbox 83 594 159 619; x_wconf 83' lang='lat' dir='ltr'>prima</span> <span class='ocrx_word' id='word_1_12' title='bbox 180 594 383 620; x_wconf 69' lang='lat' dir='ltr'><strong>Epigrammatum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 405 594 555 618; x_wconf 67' lang='lat' dir='ltr'>aliorumque</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 101 647 493 670">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 101 647 493 670">
+     <span class='ocr_line' id='line_1_7' title="bbox 101 647 493 670; baseline 0.003 -1"><span class='ocrx_word' id='word_1_14' title='bbox 101 647 245 670; x_wconf 75' lang='lat' dir='ltr'>c-rmin&#39;um</span> <span class='ocrx_word' id='word_1_15' title='bbox 258 654 380 670; x_wconf 74' lang='lat' dir='ltr'>Editio-xe</span> <span class='ocrx_word' id='word_1_16' title='bbox 396 654 493 670; x_wconf 72' lang='lat' dir='ltr'>omia-n.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

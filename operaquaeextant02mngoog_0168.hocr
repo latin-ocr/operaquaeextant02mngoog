@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeextant02mngoog_0168.png"; bbox 0 0 717 1198; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 287 250 313 272">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 287 250 313 272">
+     <span class='ocr_line' id='line_1_1' title="bbox 287 250 313 272; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 287 250 313 272; x_wconf 79' lang='lat' dir='ltr'>K.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 42 319 553 695">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 42 319 553 695">
+     <span class='ocr_line' id='line_1_2' title="bbox 76 319 520 345; baseline 0.002 -7"><span class='ocrx_word' id='word_1_2' title='bbox 76 319 103 338; x_wconf 78' lang='lat' dir='ltr'>In</span> <span class='ocrx_word' id='word_1_3' title='bbox 121 319 250 338; x_wconf 80' lang='lat' dir='ltr'>Ulrichum</span> <span class='ocrx_word' id='word_1_4' title='bbox 265 320 520 345; x_wconf 67' lang='lat' dir='ltr'>Wiirteubergeusem</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 217 379 383 402; baseline 0.006 -7"><span class='ocrx_word' id='word_1_5' title='bbox 217 379 293 396; x_wconf 66' lang='lat' dir='ltr'><strong>ennio</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 308 381 383 402; x_wconf 67' lang='lat' dir='ltr'>quinn-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 286 435 310 451; baseline 0.042 -1"><span class='ocrx_word' id='word_1_7' title='bbox 286 435 310 451; x_wconf 69' lang='lat' dir='ltr'>nd</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 42 488 553 519; baseline 0.002 -7"><span class='ocrx_word' id='word_1_8' title='bbox 42 488 350 513; x_wconf 74' lang='lat' dir='ltr'>Confoedustos</span> <span class='ocrx_word' id='word_1_9' title='bbox 369 490 553 519; x_wconf 69' lang='lat' dir='ltr'>Sueviae,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 288 530 515 567; baseline -0.004 0"><span class='ocrx_word' id='word_1_10' title='bbox 288 556 305 567; x_wconf 74' lang='grc' dir='ltr'>ιῑ</span> <span class='ocrx_word' id='word_1_11' title='bbox 511 530 515 534; x_wconf 46' lang='grc'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 140 607 449 628; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 140 607 275 626; x_wconf 76' lang='lat' dir='ltr'>victorem</span> <span class='ocrx_word' id='word_1_13' title='bbox 299 607 449 628; x_wconf 73' lang='lat' dir='ltr'>exercitum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 89 666 492 695; baseline -0.002 -12"><span class='ocrx_word' id='word_1_14' title='bbox 89 667 179 684; x_wconf 66' lang='lat' dir='ltr'>eluviem</span> <span class='ocrx_word' id='word_1_15' title='bbox 194 666 242 686; x_wconf 70' lang='lat' dir='ltr'>inm.</span> <span class='ocrx_word' id='word_1_16' title='bbox 263 670 283 683; x_wconf 70' lang='lat' dir='ltr'>en</span> <span class='ocrx_word' id='word_1_17' title='bbox 296 666 381 695; x_wconf 53' lang='lat' dir='ltr'>dejecto</span> <span class='ocrx_word' id='word_1_18' title='bbox 396 667 492 686; x_wconf 76' lang='lat' dir='ltr'>Tynnno</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 211 721 375 738">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 211 721 375 738">
+     <span class='ocr_line' id='line_1_9' title="bbox 211 721 375 738; baseline -0.006 0"><span class='ocrx_word' id='word_1_19' title='bbox 211 721 375 738; x_wconf 69' lang='lat' dir='ltr'>den-mnu.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
